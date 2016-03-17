@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Miles Stevens]]></title>
+        <description><![CDATA[Miles Stevens]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 17:23:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Happy December!]]></title>
+            <description><![CDATA[<article><h1>Happy December!</h1><p>November flew by so quickly and winter is soon upon us. It was a pretty low-key month, and we mainly focused on getting things together for our annual Advent devotional. Every year, Rick (our lead pastor) puts together five devotionals—one for each Sunday leading up to Christmas. This year, he decided to do one for each day! Much of our time was spent creating header images, copy editing, and a bit of writing here and there.</p></article>]]></description>
+            <link>undefinedhappy-december/index.html</link>
+            <guid isPermaLink="false">a3922dbc-b301-47d0-9836-6855f32ce2e5</guid>
+            <pubDate>Thu, 17 Mar 2016 17:23:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
