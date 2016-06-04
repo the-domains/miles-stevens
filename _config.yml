@@ -1,28 +1,40 @@
-name: Miles Stevens
 favicon: null
-layout_spectrum: 0.75655
-typography_spectrum: 0.62215
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Miles Stevens
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 0
+  lightness: 1
   brandColors:
     - '#f9f8f3'
     - '#3d3737'
     - '#ccc8be'
     - '#4d9fd2'
     - '#c69439'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0.875
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 1
+typography_spectrum: 0.62215
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.75655
+analytics:
+  twitter: null
+  google: null
+  facebook: null
